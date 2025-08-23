@@ -16,3 +16,10 @@
 - Работа с базовыми View-компонентами (Spinner, Button, TextView)
 - Извлечение строковых ресурсов
 - Реализация простой бизнес-логики в активности
+
+# Скриншоты
+<p align="center">
+  <img src="screenshots/activity_layout.xml.png" width="25%" />
+  <img src="screenshots/main_activity_code.kt.png" width="30%" />
+  <img src="screenshots/beer_list_example.png" width="15%" />
+</p>
