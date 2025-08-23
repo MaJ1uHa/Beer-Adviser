@@ -19,6 +19,6 @@
 
 # Скриншоты
 <p align="center">
-  <img src="screenshots/Start_screen_Adviser.png" width="30%" />
-  <img src="screenshots/Result_selection_Adviser.png" width="30%" />
+  <img src="screenshots/Start_screen_Adviser.png" width="20%" />
+  <img src="screenshots/Result_selection_Adviser.png" width="20%" />
 </p>
