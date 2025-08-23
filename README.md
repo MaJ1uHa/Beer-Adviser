@@ -19,7 +19,5 @@
 
 # Скриншоты
 <p align="center">
-  <img src="screenshots/activity_layout.xml.png" width="25%" />
-  <img src="screenshots/main_activity_code.kt.png" width="30%" />
-  <img src="screenshots/beer_list_example.png" width="15%" />
+  <img src="screenshots/beer_list_example.png" width="30%" />
 </p>
